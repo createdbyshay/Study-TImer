@@ -1,17 +1,23 @@
-# study_timer
+# Polaryn Study Timer ⏱️
 
-A new Flutter project.
+Developed by **Shay**, a 19-year-old engineering student.
 
-## Getting Started
+## 🚀 About This Project
+This is a minimalist study timer built with **Flutter**. 
+I created this tool to allow focus my own study sessions for complex science and engineering subjects.
 
-This project is a starting point for a Flutter application.
+## ✨ Key Features
+- **Simple UI**: No distractions, just focus.
+- **Web-Ready**: Access from any device via browser.
+- **PWA Support**: Can be added to your mobile home screen.
 
-A few resources to get you started if this is your first Flutter project:
+## 🔗 Live Demo
+Check out the app here:
+[https://createdbyshay.github.io/Study-TImer/build/web/](https://createdbyshay.github.io/Study-TImer/build/web/)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Built With
+- Flutter (Web)
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+*Follow my journey as an app developer!*
